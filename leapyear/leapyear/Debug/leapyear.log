@@ -1,0 +1,6 @@
+﻿  leapyear.cpp
+e:\orderpre\leapyear\leapyear.cpp(30): warning C4101: “choice”: 未引用的局部变量
+e:\orderpre\leapyear\leapyear.cpp(116): warning C4018: “<”: 有符号/无符号不匹配
+e:\orderpre\leapyear\leapyear.cpp(197): warning C4101: “firstDayBefore”: 未引用的局部变量
+e:\orderpre\leapyear\leapyear.cpp(157): warning C4715: “numOfDaysInMonth”: 不是所有的控件路径都返回值
+  leapyear.vcxproj -> E:\orderPre\leapyear\leapyear\Debug\leapyear.exe
